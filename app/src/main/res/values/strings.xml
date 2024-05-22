@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="already_registered_sign_in">Already Registered , Sign In !</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet , Sign Up !</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="Commencerlademarche">Commencer la demarche</string>
+   <string name="select">Select Item...</string>
+    <string name="auto_complete_text_view_description">Auto complete text view for selecting items</string>
+
+        <string name="button_retour_text"> <i></i>Retour</string>
+    <string name="enter_text" />
+    <string name="enter_text_prenom">\n</string>
+    <string name="enter_text_email" />
+
+
+</resources>
